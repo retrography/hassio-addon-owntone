@@ -38,6 +38,7 @@ ingress_port: 3689
 webui: http://[HOST]:[PORT:3689]/
 startup: application
 boot: auto
+init: true
 #image: linuxserver/daapd
 options: 
   general:
